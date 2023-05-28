@@ -27,4 +27,4 @@ Process Involved:
 2. Data Processing
 3. Data Analysing 
 4. Data Visualization
-5. MDashboard Building
+5. Dashboard Building
